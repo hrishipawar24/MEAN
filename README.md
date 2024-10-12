@@ -1,6 +1,7 @@
 # MEAN
 -Typescriot Angular And MEAN Practice
-
+- Day 0:- Date :-  21/09/2024     - Programme    :-  00
+  
 - Day 1:- Date :-  28/09/2024     - Programme    :-  00
   - Introduction
 
