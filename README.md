@@ -1,17 +1,26 @@
 # MEAN
 -Typescriot Angular And MEAN Practice
-- Day 0:- Date :-  21/09/2024     - Programme    :-  00
+- 00:- Date :-  21/09/2024 
   
-- Day 1:- Date :-  28/09/2024     - Programme    :-  00
+- 01:- Date :-  28/09/2024   
   - Introduction
 
-- Day 2:- Date :-  05/10/2024     - Programme    :-  08
+- 02:- Date :-  05/10/2024  
   - Web Browser Architecture
   - Web Timeline
   - JS Toolchain
   - Typescript Compile Process
  
-- Day 3:- Date :-  06/10/2024    - Programme    :-  15
+- 03:- Date :-  06/10/2024    
   - Data Types
+ 
+
+- 04:- Date :-  12/10/2024
+- 
+- 05:- Date :-  13/10/2024
+- 
+- 06:- Date :-  26/10/2024
+- 
+- 07:- Date :-  27/10/2024  
   
 
