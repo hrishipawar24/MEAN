@@ -1,5 +1,5 @@
 # MEAN
--Typescriot Angular And MEAN Practice
+-Typescript Angular And MEAN Practice
 - 00:- Date :-  21/09/2024 
   
 - 01:- Date :-  28/09/2024   
