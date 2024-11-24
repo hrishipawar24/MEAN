@@ -16,43 +16,43 @@
  
 
 # 04:- Date :-  12/10/2024
--Typescript Language Paradigms
--Function
+- Typescript Language Paradigms
+- Function
 
 # 05:- Date :-  13/10/2024
--Array
--Loops
--Types of Function Arguments
--1)Position Argument
--2)Default Argument
--3)Optional Argument
--4)Variable Number of Argument
+- Array
+- Loops
+- Types of Function Arguments
+- 1)Position Argument
+- 2)Default Argument
+- 3)Optional Argument
+- 4)Variable Number of Argument
 
 # 06:- Date :-  26/10/2024
--Function Types
--1)Anonymous Function
--2)Lambda Function
--3)Unnamed Function
--4)Normal Function
+- Function Types
+- 1)Anonymous Function
+- 2)Lambda Function
+- 3)Unnamed Function
+- 4)Normal Function
 
 # 07:- Date :-  27/10/2024
--Object Oriented in Typescript
--Component Structure
+- Object Oriented in Typescript
+- Component Structure
 
 # 08:- Date :-  09/11/2024
--Intrpolation
+- Intrpolation
 
 # 09:- Date :-  10/11/2024
--Binding Types
--1) Data Binding (Intrpolation)
--2) Style Binding
--3) Class Binding
--4) Event Binding
--5) Two way Data Binding
+- Binding Types
+- 1) Data Binding (Intrpolation)
+- 2) Style Binding
+- 3) Class Binding
+- 4) Event Binding
+- 5) Two way Data Binding
 
 # 10:- Date :-  16/11/2024
--1)Inter Component Communation (Chaild Parent Communication)
--2)Pipe Types (Inbuild/ Custom)
+- 1)Inter Component Communation (Chaild Parent Communication)
+- 2)Pipe Types (Inbuild/ Custom)
 
 # 11:- Date :-  17/11/2024
 -Call Back function
