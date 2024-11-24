@@ -24,12 +24,27 @@
 - 07:- Date :-  27/10/2024
 -
 - 08:- Date :-  09/11/2024
--
+-Intrpolation
 - 09:- Date :-  10/11/2024
--
+-1) Data Binding (Intrpolation)
+-2) Style Binding
+-3) Class Binding
+-4) Event Binding
+-5) Two way Data Binding
 - 10:- Date :-  16/11/2024
--
+-1)Inter Component Communation (Chaild Parent Communication)
+-2)Pipe Types (Inbuild/ Custom)
 - 11:- Date :-  17/11/2024
-- 
-  
-
+- *Structural Directive
+- 1)ng if
+- 2)ng for
+- 3)ng switch
+- 12:- Date :-  23/11/2024
+- Services in Angular
+- Dependency Injection (Design)
+- HTTP
+- Observable
+- 12:- Date :-  24/11/2024
+- Synchronously / Asynchronously
+- Observable
+- Angular Routing
