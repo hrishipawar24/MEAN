@@ -66,8 +66,18 @@
 - Dependency Injection (Design)
 - HTTP
 - Observable
-  
-# 13:- Date :-  24/11/2024
-- Synchronously / Asynchronously
+
+# 13:- Date :-  23/11/2024
+- Services in Angular (With Services/ Without Services)
+- Dependency Injection (Design)
+- HTTP
 - Observable
-- Angular Routing
+  
+# 14:- Date :-  30/11/2024
+- Bootstrap 
+- Material Design
+- Forms in Angular
+
+# 15:- Date :-  01/11/2024
+- Login Form
+- Modular Project
