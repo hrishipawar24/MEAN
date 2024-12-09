@@ -81,3 +81,12 @@
 # 15:- Date :-  01/12/2024
 - Login Form
 - Modular Project
+
+# 16:- Date :-  07/12/2024
+- Validations in Reactive Forms
+- Lazy Loding
+
+# 17:- Date :-  08/12/2024
+- Express Server creation using Node.js
+
+
